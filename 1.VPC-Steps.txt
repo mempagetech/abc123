@@ -1,6 +1,6 @@
 1. Decide on VPC name and create a new VPC. For this class VPC name is AWS-JAN-21-VPC and IP Address space we are going to use is 10.1.0.0/16 =>65000 IPs. 
 Enable DNS Hostnames.
-
+my repo change
 2. Create three subnets in AWS-JAN-21.Enable automatic IP Assignment.
 
 JAN-21-Subnet1 - 10.1.1.0/24 -1a
